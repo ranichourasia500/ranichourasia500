@@ -30,7 +30,9 @@ Soft Skills: Communication and Problem-Solving.
 
 GitHub: https://https://github.com/ranichourasia500
 
+
 [!\[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://in.linkedin.com/in/rani-chourasia-0067361a3/)
+
 [!\[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/rani_chourasia)
 
 
